@@ -7,7 +7,7 @@ package person;
 
 /**
  *
- * @author asus
+ * @author Bayu Firdaus
  */
 public class ManagingPeople {
     
