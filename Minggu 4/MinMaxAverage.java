@@ -38,7 +38,6 @@ public class MinMaxAverage {
         
     //penyeleksian untuk mendapatkan nilai minimal
         if(nilai_input < min){
-            max = min;
             min = nilai_input;
         }
         else if (nilai_input > max){
